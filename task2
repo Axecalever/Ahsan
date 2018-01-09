@@ -1,10 +1,1 @@
-Hello
-Commit1 #BranchB
-[BranchB ba6faf7] Commit1 #BranchB
- 1 file changed, 1 insertion(+)
-Commit2 #BranchB
-[BranchB 34ac7d9] Commit2 #BranchB
- 1 file changed, 3 insertions(+)
-[BranchB 6465ba8] Commit2 #BranchB
- 1 file changed, 2 insertions(+)
-Commit1 #BranchB
+Change2
